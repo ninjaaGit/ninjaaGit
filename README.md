@@ -31,7 +31,7 @@
   ##
  
 <div> 
- <h2 align="center">🧑‍💻 Sobre Mim:</h2>
+ <h2 align="left">🧑‍💻 Sobre Mim:</h2>
 - :computer: Atualmente trabalhando no <a href="http://www.arcom.com.br">Arcom S/A</a><br>
 - :hourglass_flowing_sand:  Descobrindo Google Cloud e Microsoft Azure <br>
 - :rocket: Aprofundando em React e Java SE
