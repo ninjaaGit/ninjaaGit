@@ -31,7 +31,7 @@
   ##
  
 <div> 
- <h2 align="left">🧑‍💻 Sobre Mim:</h2>
+ <h2 align="center">🧑‍💻 Sobre Mim:</h2>
  <img align="right" alt="ninjaaGit" src="https://media.discordapp.net/attachments/857393129858400296/881197073268105247/ezgif.com-gif-maker.gif?width=225&height=219">
 - :computer: Atualmente trabalhando no <a href="http://www.arcom.com.br">Arcom S/A</a><br>
 - :hourglass_flowing_sand:  Descobrindo Google Cloud e Microsoft Azure <br>
