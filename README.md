@@ -1,12 +1,14 @@
-<h2 align="center">
- <abc>
-  <br>Olá <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> Eu sou o Artur Gonzalez :blush:<br>
-  <br> Desenvolvedor Web Full Stack :computer:<br>
-  <br>
-    <img src="https://pa1.narvii.com/6627/21b62750c6f0e0655c26dd3127a87135d0d86043_hq.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
+<div>
+ <h2 align="center">
+  <abc>
+   <br>Olá <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+   <br> Eu sou o Artur Gonzalez :blush:<br>
+   <br> Desenvolvedor Web Full Stack :computer:<br>
+   <br>
+     <img src="https://pa1.narvii.com/6627/21b62750c6f0e0655c26dd3127a87135d0d86043_hq.gif" alt="Coder GIF" width="500">
+  </abc>
+ </h2> 
+</div>
 
 <div style="display: inline_block"><br>
  <h2 align="center">:hammer_and_wrench: Tecnologias e Ferramentas que uso:</h2>
@@ -26,6 +28,7 @@
  </p>
 </div>
 
+<div>
 <h2 align="center">👨🏻‍💻 Sobre Mim:</h2>
 <img align="right" alt="ninjaGit" src="https://cdn.discordapp.com/attachments/857393129858400296/881197073268105247/ezgif.com-gif-maker.gif">
 - :computer: Atualmente trabalhando no <a href="http://www.arcom.com.br">Arcom S/A</a>
@@ -33,3 +36,5 @@
 - :rocket: Aprofundando em React e Java SE
 
 ![Snake animation](https://github.com/ninjaaGit/ninjaaGit/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
