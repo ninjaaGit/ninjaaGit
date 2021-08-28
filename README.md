@@ -23,15 +23,12 @@
     <a href="https://www.mysql.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
     </p>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="center">👨🏻‍💻 About Me:</h2>
 
 - :computer: Atualmente trabalhando no <a href="http://www.arcom.com.br">Arcom S/A</a>
-- :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+- :hourglass_flowing_sand:  Descobrindo Google Cloud e Microsoft Azure
+- :rocket: Aprofundando em React e Java SE
+- :dart: Life Hack: "Explorar :fire: e Explodir :bomb: com Conhecimento" 
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
