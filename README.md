@@ -25,7 +25,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on MERN Stack
+- :computer: Atualmente trabalhando no <a href="http://www.arcom.com.br">Arcom S/A</a>
 - :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: Former Project Lead Intern at GirlScript Foundation
