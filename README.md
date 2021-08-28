@@ -10,7 +10,7 @@
  </h2> 
 </div>
 
-<div style="display: inline_block"><br>
+<div>
  <h2 align="center">:hammer_and_wrench: Tecnologias e Ferramentas que uso:</h2>
  <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -28,7 +28,7 @@
  </p>
 </div>
 
-<div>
+<div style="display: inline_block"><br>
 <h2 align="center">👨🏻‍💻 Sobre Mim:</h2>
 <img align="right" alt="ninjaGit" src="https://cdn.discordapp.com/attachments/857393129858400296/881197073268105247/ezgif.com-gif-maker.gif">
 - :computer: Atualmente trabalhando no <a href="http://www.arcom.com.br">Arcom S/A</a>
