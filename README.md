@@ -32,8 +32,8 @@
  
 <div> 
  <h2 align="center">:man_technologist_tone1: Sobre Mim:</h2>
-- :computer: Atualmente trabalhando no <a href="http://www.arcom.com.br">Arcom S/A</a>
-- :hourglass_flowing_sand:  Descobrindo Google Cloud e Microsoft Azure
+- :computer: Atualmente trabalhando no <a href="http://www.arcom.com.br">Arcom S/A</a><br>
+- :hourglass_flowing_sand:  Descobrindo Google Cloud e Microsoft Azure <br>
 - :rocket: Aprofundando em React e Java SE
 
 ![Snake animation](https://github.com/ninjaaGit/ninjaaGit/blob/output/github-contribution-grid-snake.svg)
