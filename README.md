@@ -10,7 +10,7 @@
  </h2> 
 </div>
 <div style="display: inline_block"><br>
-  <h2 align="center">:tools: Tecnologias e Ferramentas que uso:</h2>
+  <h2 align="center">:hammer_and_wrench: Tecnologias e Ferramentas que uso:</h2>
  <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -31,7 +31,7 @@
   ##
  
 <div> 
- <h2 align="center">:man_technologist_tone1: Sobre Mim:</h2>
+ <h2 align="center"👨 Sobre Mim:</h2>
 - :computer: Atualmente trabalhando no <a href="http://www.arcom.com.br">Arcom S/A</a><br>
 - :hourglass_flowing_sand:  Descobrindo Google Cloud e Microsoft Azure <br>
 - :rocket: Aprofundando em React e Java SE
