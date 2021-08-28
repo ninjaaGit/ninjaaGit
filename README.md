@@ -28,3 +28,5 @@
 - :computer: Atualmente trabalhando no <a href="http://www.arcom.com.br">Arcom S/A</a>
 - :hourglass_flowing_sand:  Descobrindo Google Cloud e Microsoft Azure
 - :rocket: Aprofundando em React e Java SE
+
+![Snake animation](https://github.com/ninjaaGit/ninjaaGit/blob/output/github-contribution-grid-snake.svg)
