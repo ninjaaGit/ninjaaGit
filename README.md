@@ -4,7 +4,7 @@
   <br> Eu sou o Artur Gonzalez :blush:<br>
   <br> Desenvolvedor Web Full Stack :computer:<br>
   <br>
-    <img src="https://media.discordapp.net/attachments/857013430400712715/881181968006512690/tumblr_14cc45f9610a6ee341a45fd0d68f4dde_67ab1db1_640.gif?width=480&height=270" alt="Coder GIF" width="500">
+    <img src="https://pa1.narvii.com/6627/21b62750c6f0e0655c26dd3127a87135d0d86043_hq.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
