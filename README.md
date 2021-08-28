@@ -25,7 +25,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: Atualmente trabalhando no <a href="http://www.arcom.com.br" style="color: #F00">Arcom S/A</a>
+- :computer: Atualmente trabalhando no <a href="http://www.arcom.com.br" style="text-decoration: none">Arcom S/A</a>
 - :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: Former Project Lead Intern at GirlScript Foundation
