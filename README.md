@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> Eu sou o Artur Gonzalez :blush:<br>
+  <br class="text-align: center;"> Eu sou o Artur Gonzalez :blush:<br>
   <br> Desenvolvedor Web Full Stack :computer:<br>
   <br>
     <img src="https://pa1.narvii.com/6627/21b62750c6f0e0655c26dd3127a87135d0d86043_hq.gif" alt="Coder GIF" width="500">
