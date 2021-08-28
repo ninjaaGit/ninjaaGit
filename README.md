@@ -31,13 +31,14 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <h2 align="center">:man_technologist_tone1: Sobre Mim:</h2>
+<div style="display: inline_block"><br>
+<img align="right" alt="ninjaGit" src="https://cdn.discordapp.com/attachments/857393129858400296/881197073268105247/ezgif.com-gif-maker.gif">
+- :computer: Atualmente trabalhando no <a href="http://www.arcom.com.br">Arcom S/A</a>
+- :hourglass_flowing_sand:  Descobrindo Google Cloud e Microsoft Azure
+- :rocket: Aprofundando em React e Java SE
+
+![Snake animation](https://github.com/ninjaaGit/ninjaaGit/blob/output/github-contribution-grid-snake.svg)
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
