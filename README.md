@@ -28,8 +28,9 @@
  </p>
 </div>
 
-<div style="display: inline_block"><br>
+
 <h2 align="center">👨🏻‍💻 Sobre Mim:</h2>
+<div style="display: inline_block"><br>
 <img align="right" alt="ninjaGit" src="https://cdn.discordapp.com/attachments/857393129858400296/881197073268105247/ezgif.com-gif-maker.gif">
 - :computer: Atualmente trabalhando no <a href="http://www.arcom.com.br">Arcom S/A</a>
 - :hourglass_flowing_sand:  Descobrindo Google Cloud e Microsoft Azure
