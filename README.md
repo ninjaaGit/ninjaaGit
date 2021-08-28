@@ -23,12 +23,11 @@
     <a href="https://www.mysql.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
     </p>
 
-<h2 align="center">👨🏻‍💻 About Me:</h2>
+<h2 align="center">👨🏻‍💻 Sobre Mim:</h2>
 
 - :computer: Atualmente trabalhando no <a href="http://www.arcom.com.br">Arcom S/A</a>
 - :hourglass_flowing_sand:  Descobrindo Google Cloud e Microsoft Azure
 - :rocket: Aprofundando em React e Java SE
-- :dart: Life Hack: "Explorar :fire: e Explodir :bomb: com Conhecimento" 
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
