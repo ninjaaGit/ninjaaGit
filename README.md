@@ -5,7 +5,7 @@
    <br> Eu sou o Artur :blush:<br>
    <br> Desenvolvedor Web Full Stack :computer:<br>
    <br>
-     <img rc="https://pa1.narvii.com/6627/21b62750c6f0e0655c26dd3127a87135d0d86043_hq.gif" alt="Coder GIF" width="500">
+     <img src="https://pa1.narvii.com/6627/21b62750c6f0e0655c26dd3127a87135d0d86043_hq.gif" alt="Coder GIF" width="500">
   </abc>
  </h2> 
 </div>
