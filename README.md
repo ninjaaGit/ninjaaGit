@@ -34,7 +34,7 @@
  <h2 align="center">🧑‍💻 About Me:</h2>
  <img align="right" alt="ninjaaGit" src="https://media.discordapp.net/attachments/857393129858400296/881197073268105247/ezgif.com-gif-maker.gif?width=225&height=219">
 - :computer: Currently looking for work<br>
--  :hourglass_flowing_sand:   Learning Google Cloud and Microsoft Azure <br>
+-   :hourglass_flowing_sand:    Learning Google Cloud and Microsoft Azure <br>
 - :rocket: Exploring React and Java SE
 
 ![Snake animation](https://github.com/ninjaaGit/ninjaaGit/blob/output/github-contribution-grid-snake.svg)
