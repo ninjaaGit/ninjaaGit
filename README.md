@@ -1,8 +1,8 @@
 <div>
  <h2 align="center">
   <abc>
-   <br>Olá <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-   <br> Hi! I'm Artur :blush:<br>
+   <br> Hi! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+   <br> I'm Artur :blush:<br>
    <br> Full Stack Web Developer :computer:<br>
    <br>
      <img src="https://pa1.narvii.com/6627/21b62750c6f0e0655c26dd3127a87135d0d86043_hq.gif" alt="Coder GIF" width="500">
